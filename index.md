@@ -10,6 +10,10 @@
 * [SIS](https://sis.jhu.edu/sswf/)
 * [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
+## Documentation
+* [Python3](https://docs.python.org/3/)
+* [Java8](https://docs.oracle.com/javase/8/docs/)
+
 ## Professional
 * [LinkedIn](https://www.linkedin.com/in/tony-yang-a6198511a/)
 * [Twitter](https://twitter.com/tonydyang)
