@@ -9,6 +9,7 @@
 * [Piazza](https://piazza.com/)
 * [SIS](https://sis.jhu.edu/sswf/)
 * [Udemy](https://www.udemy.com/home/my-courses/learning/)
+* [Calc III](http://www.math.jhu.edu/~brown/courses/f19/Syllabus202.html)
 
 ## Documentation
 * [Python3](https://docs.python.org/3/)
